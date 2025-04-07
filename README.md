@@ -10,11 +10,12 @@ Structure Neural Network 3 (AESNN3), and merged features</span>
 
 ## Workflow Diagram
 
-![Workflow Diagram](https://drive.google.com/file/d/1El0kU3q-m9Vzyq7l-XCObHxRK7x_hSLE/view?usp=drive_link)
+![Workflow Diagram](https://drive.google.com/uc?id=1El0kU3q-m9Vzyq7l-XCObHxRK7x_hSLE)
 **For more information please see the notebook**
 
 ## Procedure
-![KAN Model](https://drive.google.com/file/d/1iqkhKNPqGDykd5Jz0T0a9OxS-nvTMq9B/view?usp=drive_link)
+![KAN Model](https://drive.google.com/uc?id=1iqkhKNPqGDykd5Jz0T0a9OxS-nvTMq9B)
+
 
 Dataset and ipynb file are given for future dev. 
 
